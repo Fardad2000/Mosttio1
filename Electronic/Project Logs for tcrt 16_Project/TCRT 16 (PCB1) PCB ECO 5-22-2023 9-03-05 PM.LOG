@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=VCC Pin=R36-1
+Removed Pin From Net: NetName=VCC Pin=R37-1
+Removed Pin From Net: NetName=VCC Pin=R38-1
+Removed Member From Class: ClassName=tcrt 16 Sheet Member=D4
+Removed Member From Class: ClassName=tcrt 16 Sheet Member=D5
+Removed Member From Class: ClassName=tcrt 16 Sheet Member=D6
+Removed Member From Class: ClassName=tcrt 16 Sheet Member=R36
+Removed Member From Class: ClassName=tcrt 16 Sheet Member=R37
+Removed Member From Class: ClassName=tcrt 16 Sheet Member=R38
+Added Room: Name=tcrt 16 Sheet

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator= NewDesignator=R36
+Added Pin To Net: NetName=OUTPUT Pin=multipelexer-1
+Added Room: Name=tcrt 16 Sheet

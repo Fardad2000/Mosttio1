@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=OUT12 Pin=multipelexer-2
+Removed Pin From Net: NetName=OUT7 Pin=multipelexer-3
+Added Pin To Net: NetName=OUT7 Pin=multipelexer-2
+Added Pin To Net: NetName=OUT12 Pin=multipelexer-3
+Added Room: Name=tcrt 16 Sheet

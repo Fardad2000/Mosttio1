@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Member From Class: ClassName=tcrt 16 Sheet Member=D1
+Added Component: Designator=D?(0805 LED)
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R33-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=tcrt 16 Sheet Member=Component D? LED-SMD(0805)
+Added Room: Name=tcrt 16 Sheet
